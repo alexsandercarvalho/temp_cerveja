@@ -1,4 +1,3 @@
-Problema
 Você foi contratado pela Cubos Beer Bar, um bar da Cubos destinado a pessoas que gostam de consumir cervejas.
 
 Em uma reportagem de 2018, a Super Abril destaca que, por causa diversos fatores, dentre eles a diferença entre as cervejas, "não existe uma única temperatura ideal" para elas. Nessa reportagem, ela também destaca alguns tipos de cervejas e as respectivas temperaturas ideais de o consumo:
